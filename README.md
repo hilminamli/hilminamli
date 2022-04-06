@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Gamedeveloper and Founder at Teneke kafalar and currently working on [Feign](https://store.steampowered.com/app/1436990/Feign/?l=turkish)
+I'm a Gamedeveloper and Founder at Teneke Kafalar and currently working on [Feign](https://store.steampowered.com/app/1436990/Feign/?l=turkish)
 - You can reach me at: hilmi@tenekekafalar.com
 - 🥒 I don't like pickles.
 <!--
