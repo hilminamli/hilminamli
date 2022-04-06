@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on [Feign](https://store.steampowered.com/app/1436990/Feign/?l=turkish)
-- 📫 How to reach me: hilmi@tenekekafalar.com
+I'm a Gamedeveloper and Founder at Teneke kafalar and currently working on [Feign](https://store.steampowered.com/app/1436990/Feign/?l=turkish)
+- You can reach me at: hilmi@tenekekafalar.com
 - 🥒 I don't like pickles.
 <!--
 **hilminamli/hilminamli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
