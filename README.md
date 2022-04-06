@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Feign](https://store.steampowered.com/app/1436990/Feign/?l=turkish)
+- 📫 How to reach me: hilmi@tenekekafalar.com
+- 🥒 I don't like pickles.
 <!--
 **hilminamli/hilminamli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
